@@ -19,3 +19,5 @@ Requires better console than cmd.exe. I recommend [cmder](https://github.com/cmd
 Requires python. [Download here](https://www.python.org/ftp/python/3.6.2/python-3.6.2.exe). *Make sure you tick the box that adds it to your PATH*
 
 Requires Graphics Magick. [Download here](https://sourceforge.net/projects/graphicsmagick/files/graphicsmagick-binaries/1.3.26/GraphicsMagick-1.3.26-Q8-win64-dll.exe/download)
+
+After doing the following, restart cmder (don't forget to run as administrator) then run `npm install`. The app should now work.
