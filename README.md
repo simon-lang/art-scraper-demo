@@ -2,7 +2,7 @@
 
 Currently, cycles through all images in this folder and turns them into ascii art. Once every two seconds.
 
-![http://i.imgur.com/wos21cn.png]
+![example](http://i.imgur.com/wos21cn.png)
 
 More functionality to come.
 
